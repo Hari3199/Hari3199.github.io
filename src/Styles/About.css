@@ -1,0 +1,23 @@
+.text{
+    width: 50%;
+}
+.photo{
+    border-radius: 50%;
+    overflow: hidden;
+    height: 320px;
+    width: 320px;
+
+}
+.relative{
+    margin-top: -35px;
+}
+.typewriter{
+    -webkit-background-clip: text;
+    @apply bg-gradient-to-t from-blue-500 to-cyan-500 text-transparent;
+}
+
+/* @media all and (max-width:750) {
+    .photo{
+       display: none;
+    }
+} */

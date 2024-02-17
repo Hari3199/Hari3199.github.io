@@ -1,0 +1,28 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css";
+
+.logo{
+    font-size:30px;
+}
+.links{
+    font-size: 20px;
+    gap: 30px;
+}
+
+#resume-button-1{
+    margin-top: -6px;
+}
+
+.navbar{
+    padding-left: 44px;
+    padding-right: 44px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    
+}
+.fixed {
+    position: fixed;
+    background-color: #0e0e0e; /* Example background color */
+    box-shadow: 0 2px 3cap rgba(11, 11, 11, 0.1); /* Example box shadow */
+    /* Add any other styles you want for the fixed navbar */
+    padding: -25px;
+}

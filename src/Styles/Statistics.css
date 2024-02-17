@@ -1,0 +1,24 @@
+.githubConatiner {
+    border: 1px solid #eb9a30;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 30px;
+}
+.githubConatiner>div{
+    border: 1px solid #eb9a30;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+.githubConatiner >div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: auto;
+  }
+  
+.second{
+    width: 100%;
+    margin: auto;
+  }
